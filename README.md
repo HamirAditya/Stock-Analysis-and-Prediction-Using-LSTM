@@ -6,6 +6,8 @@ Stock price prediction is a challenging yet crucial task in the financial domain
 
 ![1](https://github.com/HamirAditya/Stock-Analysis-and-Prediction-Using-LSTM/assets/160116915/bd8c6399-177f-45fc-a6ef-63449330fdc7)
 
+![22](https://github.com/HamirAditya/Stock-Analysis-and-Prediction-Using-LSTM/assets/160116915/aa655aba-0c86-4ac6-826f-e67d190b4043)
+
 Features
 Utilizes LSTM neural networks for time series forecasting.
 Integrates Streamlit for building interactive web applications.
