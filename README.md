@@ -4,6 +4,8 @@ This project utilizes Long Short-Term Memory (LSTM) neural networks to forecast 
 Overview
 Stock price prediction is a challenging yet crucial task in the financial domain. This project aims to forecast stock prices using historical data and LSTM models, which are well-suited for time series forecasting tasks due to their ability to capture long-term dependencies.
 
+![1](https://github.com/HamirAditya/Stock-Analysis-and-Prediction-Using-LSTM/assets/160116915/bd8c6399-177f-45fc-a6ef-63449330fdc7)
+
 Features
 Utilizes LSTM neural networks for time series forecasting.
 Integrates Streamlit for building interactive web applications.
